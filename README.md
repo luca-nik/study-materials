@@ -14,7 +14,7 @@ Each folder contains resources, literature, and small explanations about the res
 ## 📂 Folder Structure
 
 - `Solana/`: Contains resources related to the Solana blockchain.
-- `Rust_Programming/`: Contains resources for learning Rust programming language.
+- `Rust_Programming/`: Contains resources that I am using for learning Rust programming language.
 - `MEV/`: Contains resources related to Maximum Extractable Value (MEV).
 
 Contributions and suggestions are welcome 😊.
