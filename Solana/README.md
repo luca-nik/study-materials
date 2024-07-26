@@ -30,3 +30,6 @@ This folder contains resources and literature related to the Solana blockchain.
 ## Gulfstream
 [https://www.helius.dev/blog/solana-gulf-stream](https://www.helius.dev/blog/solana-gulf-stream)
 
+## Sealevel
+[https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192) **To read**
+
