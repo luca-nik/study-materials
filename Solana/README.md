@@ -1,8 +1,6 @@
 # ⚡ Solana 
 
-This folder contains resources and literature related to the Solana blockchain. Solana is a high-performance blockchain supporting developers around the world creating crypto apps that scale today.
-
-## Resources
+This folder contains resources and literature related to the Solana blockchain.
 
 - [Solana Official Documentation](https://docs.solana.com/)
 - [Solana Whitepaper](https://solana.com/solana-whitepaper.pdf)
