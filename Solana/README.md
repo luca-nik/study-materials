@@ -19,7 +19,7 @@ This folder contains resources and literature related to the Solana blockchain.
 - [Economics](https://www.helius.dev/blog/solana-validator-economics-a-primer)
 
 ## Solana Virtual Machine
-- [https://squads.so/blog/solana-svm-sealevel-virtual-machine][https://squads.so/blog/solana-svm-sealevel-virtual-machine]
+- [https://squads.so/blog/solana-svm-sealevel-virtual-machine](https://squads.so/blog/solana-svm-sealevel-virtual-machine)
 
 ## Turbine
 - [https://blockofchain.medium.com/turbine-block-propagation-and-data-availability-8a27010cd4f5](https://blockofchain.medium.com/turbine-block-propagation-and-data-availability-8a27010cd4f5) **To Read**
