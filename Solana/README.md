@@ -25,6 +25,7 @@ This folder contains resources and literature related to the Solana blockchain.
 - [https://blockofchain.medium.com/turbine-block-propagation-and-data-availability-8a27010cd4f5](https://blockofchain.medium.com/turbine-block-propagation-and-data-availability-8a27010cd4f5) **To Read**
 - [https://www.helius.dev/blog/turbine-block-propagation-on-solana](https://www.helius.dev/blog/turbine-block-propagation-on-solana)
 - [https://docs.solanalabs.com/consensus/turbine-block-propagation](https://docs.solanalabs.com/consensus/turbine-block-propagation)
+- [QUIC](https://www.helius.dev/blog/all-you-need-to-know-about-solana-and-quic) **To Read**
 
 ## Gulfstream
 [https://www.helius.dev/blog/solana-gulf-stream](https://www.helius.dev/blog/solana-gulf-stream)
