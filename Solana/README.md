@@ -6,19 +6,26 @@ This folder contains resources and literature related to the Solana blockchain.
 - [Solana Whitepaper](https://solana.com/solana-whitepaper.pdf)
 - [Solana GitHub Repository](https://github.com/solana-labs/solana)
 
-## Topics Covered
+## Consensus
+-[https://www.helius.dev/blog/consensus-on-solana](https://www.helius.dev/blog/consensus-on-solana)
 
-1. **Introduction to Solana**
-   - Overview of Solana
-   - Key features and advantages
-2. **Solana Architecture**
-   - Proof of History
-   - Consensus Mechanism
-3. **Developing on Solana**
-   - Development tools
-   - Programs development
-4. **Solana Ecosystem**
-   - Key projects
-   - Community and support
+## Fees
+-[https://www.helius.dev/blog/solana-fees-in-theory-and-practice](https://www.helius.dev/blog/solana-fees-in-theory-and-practice)
 
+## Nodes
+-[https://www.helius.dev/blog/solana-nodes-a-primer-on-solana-rpcs-validators-and-rpc-providers](https://www.helius.dev/blog/solana-nodes-a-primer-on-solana-rpcs-validators-and-rpc-providers)
+
+## Validators
+- [Economics](https://www.helius.dev/blog/solana-validator-economics-a-primer)
+
+## Solana Virtual Machine
+- [https://squads.so/blog/solana-svm-sealevel-virtual-machine][https://squads.so/blog/solana-svm-sealevel-virtual-machine]
+
+## Turbine
+- [https://blockofchain.medium.com/turbine-block-propagation-and-data-availability-8a27010cd4f5](https://blockofchain.medium.com/turbine-block-propagation-and-data-availability-8a27010cd4f5) **To Read**
+- [https://www.helius.dev/blog/turbine-block-propagation-on-solana](https://www.helius.dev/blog/turbine-block-propagation-on-solana)
+- [https://docs.solanalabs.com/consensus/turbine-block-propagation](https://docs.solanalabs.com/consensus/turbine-block-propagation)
+
+## Gulfstream
+[https://www.helius.dev/blog/solana-gulf-stream](https://www.helius.dev/blog/solana-gulf-stream)
 
