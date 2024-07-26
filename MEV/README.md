@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Status-Work_in_Progress-yellow)
+
 # 🛠️ MEV (Maximum Extractable Value) 
 
 This folder contains resources related to Maximum Extractable Value (MEV). 
@@ -7,7 +9,6 @@ This folder contains resources related to Maximum Extractable Value (MEV).
 - [MEV Wiki](https://mev.wiki/)
 - [Flashbots Research](https://www.flashbots.net/)
 
-## Topics Covered
 
 1. **Introduction to MEV**
    - Overview of MEV
@@ -22,5 +23,8 @@ This folder contains resources related to Maximum Extractable Value (MEV).
 4. **MEV Ecosystem**
    - Key players
    - Research and development
+
+## MEV on Solana
+-[https://www.helius.dev/blog/solana-mev-an-introduction](https://www.helius.dev/blog/solana-mev-an-introduction)
 
 
