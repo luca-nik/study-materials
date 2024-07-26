@@ -1,4 +1,6 @@
-#🦀 Rust Programming 
+![Status](https://img.shields.io/badge/Status-Work_in_Progress-yellow)
+
+# 🦀 Rust Programming 
 
 This folder contains resources that I am currently using for learning the Rust programming language.
 
