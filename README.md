@@ -1,7 +1,7 @@
 ![Status](https://img.shields.io/badge/Status-Work_in_Progress-yellow)
 # 📚 Study Materials
 
-This repository contains literature and resources for various topics I'm studying. Each topic has its own folder and contains a detailed README file with explanations and resources.
+This repository contains literature and resources for various topics I'm studying.
 
 ## 💡 Topics
 
